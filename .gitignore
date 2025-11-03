@@ -1,3 +1,13 @@
+# Käännetyt tiedostot
+*.exe
+*.o
+*.out
+*.obj
 *.pro
-/build/
 *.user
+
+# Build-kansiot
+/build/
+/bin/
+/debug/
+/release/
